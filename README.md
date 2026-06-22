@@ -30,7 +30,7 @@ XGBoost on 20.7M e-commerce events (AUC 0.7881), RFM segmentation, CLV regressio
 
 ## 🌐 Connect
 - 💻 GitHub: github.com/HarshithNR02
-- 🔗 LinkedIn: [your LinkedIn URL]
-- 📧 [your email]
+- 🔗 LinkedIn: linkedin.com/in/harshithnr2002
+- 📧 harshithnerlikereramesh@gmail.com
 
 ⭐ Open to Data Scientist / ML Engineer / Data Analyst roles
