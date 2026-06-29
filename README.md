@@ -31,7 +31,7 @@ LightGBM churn model on 970K users × 110 features (time-based validation, AUC 0
 LightGBM delay classifier on 18.2M US domestic flights with strict temporal validation (AUC 0.8629), SHAP analysis showing real_time_turn_gap as the #1 predictor, cascade/route-risk scoring, and a $2.78B annualized savings estimate. FastAPI + Docker + GitHub Actions CI/CD.
 
 ### 📌 [Walmart M5 Sales Forecasting](https://github.com/HarshithNR02/walmart_sales_forecasting)
-LightGBM global model (WRMSSE 0.4681) across 30,490 item-store series, beating AutoARIMA and 7 other baselines. PostgreSQL business insights and a LangChain + GPT-4o-mini natural language query interface.
+LightGBM global model (WRMSSE 0.4656) across 30,490 item-store series, beating AutoARIMA and 7 other baselines. PostgreSQL business insights and a LangChain + GPT-4o-mini natural language query interface.
 
 ---
 
